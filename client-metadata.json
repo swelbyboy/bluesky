@@ -20,8 +20,8 @@
             {
                 "kty": "EC",
                 "crv": "P-256",
-                "x": "fDVYiBl25bp3sH17XnWgJRG54vnyCliGLgMnxcrsyEQ",
-                "y": "4AAbsQbjywrSRAMxVPIFfhRWpWzErhZ9558blzcX",
+                "x": "fDVYiBl25bp3sH17XnWgJRG54vnycliGAwJ8XK7MhEM",
+                "y": "4AAb2wbjywrSRAMxVDIFfhRWpWzErhZ95587lzcXAA",
                 "kid": "v1",
                 "use": "sig"
             }
