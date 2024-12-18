@@ -1,0 +1,30 @@
+{
+    "client_id": "https://gist.githubusercontent.com/swelbyboy/a4127682ad5f8b042333cbcecacd93a8/raw",
+    "application_type": "web",
+    "redirect_uris": [
+        "https://myapi.com/v3/social/api/connect/redirect"
+    ],
+    "response_types": [
+        "code"
+    ],
+    "grant_types": [
+        "authorization_code",
+        "refresh_token"
+    ],
+    "scope": "atproto transition:generic",
+    "token_endpoint_auth_method": "private_key_jwt",
+    "token_endpoint_auth_signing_alg": "ES256",
+    "dpop_bound_access_tokens": true,
+    "jwks": {
+        "keys": [
+            {
+                "crv": "P-256",
+                "x": "[val1]",
+                "y": "[val2]",
+                "kid": "v1",
+                "kty": "EC",
+                "use": "sig"
+            }
+        ]
+    }
+}
