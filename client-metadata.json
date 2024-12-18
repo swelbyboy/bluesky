@@ -20,10 +20,11 @@
             {
                 "kty": "EC",
                 "crv": "P-256",
-                "x": "fDVYiBl25bp3sH17XnWgJRG54vnycliGAwJ8XK7MhEM",
-                "y": "4AAb2wbjywrSRAMxVDIFfhRWpWzErhZ95587lzcXAA",
+                "x": "VKaug4Z_X-FipQ7M4NRvIbcPxCWhTvQf4OHYVl15OhY",
+                "y": "YsBFV1P2gI6G--NmDunl7w57JUOBOGcg9pku7_4vKeo",
                 "kid": "v1",
-                "use": "sig"
+                "use": "sig",
+                "alg": "ES256"
             }
         ]
     }
