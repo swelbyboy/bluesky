@@ -1,5 +1,5 @@
 {
-    "client_id": "https://gist.githubusercontent.com/swelbyboy/a4127682ad5f8b042333cbcecacd93a8/raw",
+    "client_id": "https://swelbyboy.github.io/bluesky/client-metadata.json",
     "application_type": "web",
     "redirect_uris": [
         "https://myapi.com/v3/social/api/connect/redirect"
