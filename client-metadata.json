@@ -2,7 +2,7 @@
     "client_id": "https://swelbyboy.github.io/bluesky/client-metadata.json",
     "application_type": "web",
     "redirect_uris": [
-        "https://myapi.com/v3/social/api/connect/redirect"
+        "https://swelbyboy.github.io/bluesky/callback"
     ],
     "response_types": [
         "code"
